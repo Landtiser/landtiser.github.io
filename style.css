@@ -4,14 +4,17 @@ body {
   border: 0;
   overflow-x: hidden;
   background: url("http://lorempixel.com/1920/1080/nature") no-repeat;
+  background-size: cover;
 }
 
 h1 {
   color: #00728c;
+  font-size: 3em;
 }
 
 h3 {
   color: ;#000000;
+  font-size: 2em;
 }
 
 .textBand {
