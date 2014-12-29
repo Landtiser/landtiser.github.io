@@ -21,6 +21,13 @@ h3 {
   border: 2px solid #000;
   border-left: none;
   border-right: none;
+  display: table;
+  vertical-align: middle;
+}
+
+.textCenter {
   display: table-cell;
   vertical-align: middle;
+  width: 100vw;
+  height: 20vh;
 }
