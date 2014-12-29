@@ -1,3 +1,18 @@
 h1 {
-  color: #0000ff;
+  color: #00728c;
+}
+
+h3 {
+  color: ;#000000;
+}
+
+.textBand {
+  height: 20vh;
+  margin: 40vh auto;
+  text-align: center;
+  width: 100vw;
+  background: #ffffff;
+  border: 2px solid #000;
+  border-left: none;
+  border-right: none;
 }
